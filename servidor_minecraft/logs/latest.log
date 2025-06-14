@@ -7665,3 +7665,265 @@ java.util.ConcurrentModificationException: null
 [20:21:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
 [20:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 11 items!
 [20:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> usa cubo de lava para matarlos
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@2cc18863 as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@20af8e07 as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1abd39a8 as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@1a4f66aa as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@7cae198d as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4768ef2b as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@203e3c8e as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4a2a8b92 as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@7c37247b as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@57b9ae1d as it does not exist in the list.
+[20:22:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@6ea6fe as it does not exist in the list.
+[20:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> listo
+[20:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> a no
+[20:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> que bueno que los cofres marcan los enemigos
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@218393e3 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7d270dc4 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4020094c as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7b96cf4f as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@7b8db694 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@7d7f6116 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3e1aa4d4 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@174dbb35 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@6db9ed7a as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@55a7d634 as it does not exist in the list.
+[20:24:02] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@7d819194 as it does not exist in the list.
+[20:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> KEKIN
+[20:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> Veni
+[20:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> eu
+[20:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> ya limpie lugar
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@646c2e00 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@685c8880 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@36b62a0 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@26a61ca6 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1af26ad as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1f7429ae as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@dbba690 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@4b60415 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@2bd600f9 as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@2b94bdfa as it does not exist in the list.
+[20:24:17] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@3d6c023a as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@519b208e as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@637524aa as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@766f96b6 as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@696c15b9 as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@27a5a6c3 as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@334c764c as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@6ac46f59 as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@4d799860 as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@28c450e6 as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@201b016a as it does not exist in the list.
+[20:24:35] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2031d274 as it does not exist in the list.
+[20:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chara has made the advancement [Ice Bucket Challenge]
+[20:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> ira
+[20:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> planos
+[20:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[20:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> beli estas viendo lo mismo q yo?
+[20:25:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> que cosa
+[20:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> tengo botas en el coco
+[20:25:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> a no es visual
+[20:25:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> a
+[20:25:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Disconnected
+[20:25:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[20:25:52] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:25:52] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 58 mods : mowziesmobs@1.5.8,ancientwarfarestructure@1.12.2-2.7.0.1038,abyssaldepths@1.12.2-0.3.1,mca@6.1.0,customskinloader@14.23,jei@4.16.1.301,futuremc@0.2.6,hammertime@2.2.0,radixcore@1.12.x-2.2.1,bettercaves@1.12.2,mcp@9.42,ancientwarfare@1.12.2-2.7.0.1038,clumps@3.1.2,travelersbackpack@1.0.35,forgelin@1.8.3,mutantbeasts@1.12.2-1.0.2,surge@2.0.79,ancientwarfareautomation@1.12.2-2.7.0.1038,foamfixcore@7.7.4,llibrary@1.7.20,blocklings@6.0.1,carryon@1.12.3,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.1,texfix@4.0,twilightforest@3.8.689,experiencebugfix@1.0.0.0,antiqueatlas@4.6.3,minecraft@1.12.2,stackie@1.6.0.48,getittogetherdrops@1.0.2,chunkanimator@1.12.2-1.2,ancientwarfarenpc@1.12.2-2.7.0.1038,spark@1.6.3,golems@7.1.9,mocreatures@12.0.5,sexmod@1.1.0,ancientwarfarevehicle@1.12.2-2.7.0.1038,spartanshields@1.5.5,lunatriuscore@1.2.0.42,customloadingscreen@1.12.2-1.5.7,libraryex@1.2.2,performant@1.12.2-1.5,FML@8.0.99.99,fastfurnace@1.3.1,cfm@6.3.0,aiimprovements@0.0.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aether_legacy@1.12.2-v1.4.0,bibliotheca@1.3.6-1.12.2,particleculling@v1.3,codechickenlib@3.2.3.358,tickdynamic@1.0.3,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5
+[20:25:52] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[20:25:52] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:25:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:25:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.85.151.59:44943] logged in with entity id 38690 at (-1372.8002695780758, 63.0, -313.79387118017513)
+[20:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[20:25:52] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Kevin070507
+[20:25:52] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Kevin070507
+[20:25:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 88936d0e-8442-47bd-83f2-63b5a73e12ac owned by null
+[20:25:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 9272d35d-3883-4d39-bed6-43767a03c036 owned by null
+[20:25:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 06eac42b-2398-4044-9096-be9beca823de owned by null
+[20:25:52] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID db31b99d-e570-4e1d-a50c-5e9fe28f4b61 owned by null
+[20:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> KEVIN
+[20:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> mira
+[20:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> uff
+[20:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> dinero
+[20:26:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 88936d0e-8442-47bd-83f2-63b5a73e12ac owned by null
+[20:26:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 9272d35d-3883-4d39-bed6-43767a03c036 owned by null
+[20:26:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 06eac42b-2398-4044-9096-be9beca823de owned by null
+[20:26:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID db31b99d-e570-4e1d-a50c-5e9fe28f4b61 owned by null
+[20:26:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 88936d0e-8442-47bd-83f2-63b5a73e12ac owned by null
+[20:26:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 9272d35d-3883-4d39-bed6-43767a03c036 owned by null
+[20:26:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 06eac42b-2398-4044-9096-be9beca823de owned by null
+[20:26:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID db31b99d-e570-4e1d-a50c-5e9fe28f4b61 owned by null
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@22f15801 as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@71b1f8a as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4b41e48d as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@694b9d91 as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@3c8f1f10 as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@41c2ce32 as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@723a1db5 as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@8f2b3bb as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@1efa6ecf as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@70ef6f57 as it does not exist in the list.
+[20:26:50] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3ecf83f5 as it does not exist in the list.
+[20:26:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@58d4ba83 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@25d0c796 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@6a69d69d as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@5ab1141e as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@156f5333 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@7fd501b9 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@3dd803c8 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7e02b2d0 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@49265458 as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@642a135f as it does not exist in the list.
+[20:26:59] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@1e86a0e9 as it does not exist in the list.
+[20:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 3 items!
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@7ac6e003 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2897890e as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@5f8ec110 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@e16e39f as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@360e66b3 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@569a2741 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2d099842 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@463fa567 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2dc743f8 as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@32c68f7b as it does not exist in the list.
+[20:27:19] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@37b0627d as it does not exist in the list.
+[20:27:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@59ffab83 as it does not exist in the list.
+[20:27:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@1c24c45a as it does not exist in the list.
+[20:27:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@799681db as it does not exist in the list.
+[20:27:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@4b3abf72 as it does not exist in the list.
+[20:27:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> Kevin
+[20:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> encotre otras 2 XD
+[20:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> eu
+[20:27:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ufff
+[20:28:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 has made the advancement [Ice Bucket Challenge]
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@952f213 as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@70aa3696 as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@415ea9a6 as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@5440b62b as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@440db2bc as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@273ea2c1 as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@1372354d as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@700201d5 as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@4b5b6bea as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@15985b73 as it does not exist in the list.
+[20:28:05] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@76312d75 as it does not exist in the list.
+[20:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ay que llevarnos todo
+[20:28:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> SI
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3f9f2695 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@4dbf722c as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@1711633d as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@40e00340 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@d0592d8 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@569cbbd8 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2a9d60e4 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@719201e5 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@32aebfe9 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@28826073 as it does not exist in the list.
+[20:28:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@104044fd as it does not exist in the list.
+[20:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> Saca mochilas de chill
+[20:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> no beli no
+[20:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ademas ya podemos hacerlas
+[20:29:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> asi
+[20:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> hazme una entonces
+[20:29:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 4920199f-0ac9-4bbc-bb50-35a0e375ad5f owned by null
+[20:29:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Oblu with UUID adc9b3a4-1050-4edf-aa6b-bc2bfaf1f112 owned by null
+[20:29:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 1d5697be-7b0a-4750-b751-9bf5796f76b3 owned by null
+[20:29:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 446fb3a8-283f-41a4-b8b9-a7f28bf211b9 owned by null
+[20:29:28] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table ebwizardry:chests/wizard_tower
+[20:30:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> ay un gigante
+[20:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> si amos
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@6d406d83 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@db2f90 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@31980325 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@22eab7b0 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@4cff3331 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@4c1862b8 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2533e1cc as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2549f1da as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@54b67edf as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@18ed08e0 as it does not exist in the list.
+[20:30:30] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@2a4813f0 as it does not exist in the list.
+[20:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> dios
+[20:30:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ira water drop
+[20:30:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> kevin
+[20:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> q
+[20:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> 2 enchanted apple-
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@577f4092 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@3e24a51e as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@5b97d226 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@6c154b7 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@494cb840 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@26774ee1 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@f060be8 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@414891ef as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@1c56e6f4 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@4333b0f8 as it does not exist in the list.
+[20:31:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@14814df9 as it does not exist in the list.
+[20:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> wasap peligro
+[20:31:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 fell from a high place
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.23] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.16] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:31] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:32] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1388.61, y=64.00, z=-291.10] as it does not exist in the list.
+[20:31:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 4920199f-0ac9-4bbc-bb50-35a0e375ad5f owned by null
+[20:31:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Oblu with UUID adc9b3a4-1050-4edf-aa6b-bc2bfaf1f112 owned by null
+[20:31:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 1d5697be-7b0a-4750-b751-9bf5796f76b3 owned by null
+[20:31:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID 446fb3a8-283f-41a4-b8b9-a7f28bf211b9 owned by null
+[20:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> XD
+[20:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[20:31:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chara moved too quickly! -1.7802313102508833,-10.170797282908353,-0.6216094005135346
+[20:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to Chara]
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@16a1d901 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@29d7ec27 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3ea1e3e9 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@3174bf0a as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4a46ed70 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@27d4cbd7 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@2b5ec338 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@25804e59 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@3d6ca338 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@ce3a1d7 as it does not exist in the list.
+[20:31:48] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@199b9d1e as it does not exist in the list.
+[20:31:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chara moved too quickly! -0.5578195381845035,-10.722248667987515,-1.3820279248453744
+[20:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> Yo si cai
+[20:31:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chara moved too quickly! -0.01263059675693512,-11.83217064529741,-0.01498759537935257
+[20:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 1 items!
+[20:32:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 88936d0e-8442-47bd-83f2-63b5a73e12ac owned by null
+[20:32:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 9272d35d-3883-4d39-bed6-43767a03c036 owned by null
+[20:32:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 06eac42b-2398-4044-9096-be9beca823de owned by null
+[20:32:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID db31b99d-e570-4e1d-a50c-5e9fe28f4b61 owned by null
