@@ -8384,3 +8384,237 @@ java.util.ConcurrentModificationException: null
 [20:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> y el portal?
 [20:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> pos lo tronaste
 [20:41:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to -1389.5, 65.0, -379.5]
+[20:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:43:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 8 items!
+[20:44:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 fell from a high place
+[20:44:22] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1395.88, y=33.00, z=-377.96] as it does not exist in the list.
+[20:44:22] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1395.88, y=33.00, z=-377.96] as it does not exist in the list.
+[20:44:22] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1395.88, y=33.00, z=-377.96] as it does not exist in the list.
+[20:44:22] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1395.88, y=33.00, z=-377.96] as it does not exist in the list.
+[20:44:22] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1395.88, y=33.00, z=-377.96] as it does not exist in the list.
+[20:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to -1389.5, 65.0, -379.5]
+[20:45:26] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@63121764)
+[20:45:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 829b8b59-c25e-4ec0-97ce-0d6ecba5fc1a owned by null
+[20:45:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 27a094be-502e-469c-b7ba-56188b5237f6 owned by null
+[20:45:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID c52733f2-56c8-465a-bbd5-324290bf759f owned by null
+[20:45:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 61cc9b1f-902b-497c-be09-4e2a0389dc22 owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID bfba0e3e-b6b5-4e4c-b30e-4eedeb5301f7 owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Oblu with UUID 8f1e0208-c5c5-4a50-93f7-2ba176783b75 owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 07fbc8c1-3b9c-4737-9d5e-6805bb63f7fe owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snuppu with UUID af4ae904-066b-4029-8590-76e24cdbc122 owned by null
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@38a570f as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@2e6b999 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@2d4ecf1f as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@22770fa1 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@a4cd824 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@190bfa5 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@75fb3c27 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@77b6b5a8 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@566a9e33 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@6f6b2f3e as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@43c941ca as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@75e91d6 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@6f038866 as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@39f4b46f as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@712d83fa as it does not exist in the list.
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID dbc9bc61-f7f5-4f08-9f72-4d3e7fc1d854 owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID 33f9caa7-be01-4020-98aa-7ab2dcd657c8 owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mahlu with UUID e5b07936-e6d3-435c-9236-b1a469c048d4 owned by null
+[20:45:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snis with UUID 4af88732-625f-4f4b-bfb2-2eb46172fb36 owned by null
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@4bf3a1fe as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6f5d8a22 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6599ce82 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@47c912a5 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2c154a06 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7d1b3486 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2ab937a9 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@d30a62a as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1de471c9 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@510aa4ad as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6b545d72 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7bb6d353 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7a405b16 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@31e0af98 as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@50e496fa as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6c1bd7fd as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@121e8e1d as it does not exist in the list.
+[20:45:44] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1ba5f55d as it does not exist in the list.
+[20:46:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@44aff42b as it does not exist in the list.
+[20:46:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@58e21a58 as it does not exist in the list.
+[20:46:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2cd7289b as it does not exist in the list.
+[20:46:47] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7054a564 as it does not exist in the list.
+[20:46:47] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1d60ff19 as it does not exist in the list.
+[20:46:47] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@51854bf as it does not exist in the list.
+[20:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:47:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 2 items!
+[20:47:32] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@f3dc997 as it does not exist in the list.
+[20:47:32] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2c50e81d as it does not exist in the list.
+[20:47:32] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@35798ffe as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2ea6d8c2 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@bdf1105 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@43a7f3f3 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1e597315 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@78124e76 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7452ef56 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5cde5b58 as it does not exist in the list.
+[20:47:35] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@4d6daa1f as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2137a741 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@60f45404 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@40f1b487 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5b82ab48 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@ba364ce as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6d8343cf as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2f156e0f as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@329469a as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3a3ab69e as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@13603df as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6caf73df as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@40107162 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@db43563 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@21f7db26 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5085faa8 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@77d2e0aa as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6863386b as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7ce5faf4 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2ff1a1b8 as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@742c927a as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@548b3c as it does not exist in the list.
+[20:47:42] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3f5e497e as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@335433e2 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2ea8f066 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2daa88 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@62934829 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@66a04e0c as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@714c616f as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6b9c7f73 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@47b6e5b8 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5e7d0638 as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@4f597dda as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@b34d1ba as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@639585dc as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5e3ea31b as it does not exist in the list.
+[20:47:45] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1278e4fb as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1eaca700 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5764ac01 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@45a5e664 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@78e7b2a7 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3c2032e9 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@ad6169 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@74d2e4aa as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6c91578c as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@16fae48b as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3da7bcef as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6b0f6113 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@24d87d4 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@754f3b15 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@45e57af3 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@70fa6693 as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@181f20fb as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6ed1abc as it does not exist in the list.
+[20:48:11] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@31e50abb as it does not exist in the list.
+[20:48:17] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7c741343 as it does not exist in the list.
+[20:48:17] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@50473e83 as it does not exist in the list.
+[20:48:17] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@27ad827f as it does not exist in the list.
+[20:48:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> NOOO MEMAME
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7b29c940 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6aa413c3 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7e1a4ce3 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@690d0c86 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@16f13987 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3a0f8788 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@100a3e6a as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6ef2748b as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3a2002ee as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3694944f as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@22cfd00e as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3ddc3ab4 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@772c1599 as it does not exist in the list.
+[20:48:23] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@17196ede as it does not exist in the list.
+[20:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> q paso
+[20:48:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> este ay dios me esta dando cuero
+[20:49:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@be57022 as it does not exist in the list.
+[20:49:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@40353afb as it does not exist in the list.
+[20:49:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2a343a5e as it does not exist in the list.
+[20:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given [Leather] * 1 to Kevin070507]
+[20:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given [Leather] * 1 to Kevin070507]
+[20:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given [Leather] * 1 to Kevin070507]
+[20:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given [Leather] * 1 to Kevin070507]
+[20:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> xd
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6e41d841 as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@14b6a3c3 as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7455f2c4 as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@6ce12a47 as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@4e05d1cb as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@37f93dae as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@74ac8b1 as it does not exist in the list.
+[20:49:15] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@4568f49f as it does not exist in the list.
+[20:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> es que ya tenia pero lo tire
+[20:49:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 3 items!
+[20:49:47] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@f4ce749 as it does not exist in the list.
+[20:49:47] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@184b8ad4 as it does not exist in the list.
+[20:49:47] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@66a1d03e as it does not exist in the list.
+[20:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ya tengo una pa ti
+[20:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> God
+[20:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to -1389.5, 65.0, -379.5]
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@572532c5 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@13e07806 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@152e6427 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@2978107 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@371e032a as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@7d8d8d70 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@7b723311 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@526e2a13 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@2ca39658 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@38f946d9 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4d2cc3db as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5f5cd6cf as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@1d280d79 as it does not exist in the list.
+[20:50:32] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@50e8ebc as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@f0eb3a1 as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@28cf0f60 as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@78fd1be0 as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@250c2cac as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@546d5e76 as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@1f3c9bbb as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@5b91adbc as it does not exist in the list.
+[20:50:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 88936d0e-8442-47bd-83f2-63b5a73e12ac owned by null
+[20:50:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 9272d35d-3883-4d39-bed6-43767a03c036 owned by null
+[20:50:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 06eac42b-2398-4044-9096-be9beca823de owned by null
+[20:50:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID db31b99d-e570-4e1d-a50c-5e9fe28f4b61 owned by null
+[20:51:17] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@3ea75b65 as it does not exist in the list.
+[20:51:17] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@2e1726e9 as it does not exist in the list.
+[20:51:17] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5caa7c2b as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@76f2f283 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@4fde5e83 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@56ca3615 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@2786d525 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@a2d5228 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@15ab8333 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@69971640 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@49b633c6 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@49f92dc6 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileAltarCandle@32144451 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.shadowmage.ancientwarfare.structure.tile.TileColored@2bcd0de2 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@a7df4e5 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@319da272 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@56eace75 as it does not exist in the list.
+[20:51:42] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityBed@6eeaeff9 as it does not exist in the list.
+[20:51:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 fell from a high place
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.39, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:51:47] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityPlayerMP['Kevin070507'/38690, l='world', x=-1389.37, y=33.00, z=-374.70] as it does not exist in the list.
+[20:52:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@5b490486 as it does not exist in the list.
+[20:52:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@7f566eab as it does not exist in the list.
+[20:52:02] [Server thread/WARN] [tickdynamic]: Failed to remove: twilightforest.tileentity.critters.TileEntityTFFirefly@ea32ffa as it does not exist in the list.
+[20:52:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chara> yo ya ando haciendo mi casa
+[20:52:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 2 items!
+[20:52:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> muy bien
