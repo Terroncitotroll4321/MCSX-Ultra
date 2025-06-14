@@ -1,0 +1,189 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  ForgelinPlugin (Forgelin-1.8.3.jar)
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  LoadingPlugin (TickDynamic-1.12.2-1.0.3.jar)
+  LoadingPlugin (ChunkAnimator-1.12.2-1.2.1.jar)
+  ParticleCullingLoadingPlugin (particleculling-1.12.2-v1.3.1.jar)
+  GITDLoadingPlugin (getittogetherdrops-1.12.2-v1.0.2.jar)
+  SurgeLoadingPlugin (Surge-1.12.2-2.0.79.jar)
+  ClsPlugin (CustomLoadingScreen-1.12.2-1.5.7.jar)
+  FutureMC (Future-MC-0.2.21.jar)
+Contact their authors BEFORE contacting forge
+
+// Daisy, daisy...
+
+Time: 6/14/25 9:31 AM
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+	at net.minecraft.world.World.func_152378_a(World.java:3473)
+	at com.trolmastercard.sexmod.el.q(el.java)
+	at com.trolmastercard.sexmod.el.func_70619_bc(el.java)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:769)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at com.trolmastercard.sexmod.em.func_70071_h_(em.java)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.world.World.func_152378_a(World.java:3473)
+	at com.trolmastercard.sexmod.el.q(el.java)
+	at com.trolmastercard.sexmod.el.func_70619_bc(el.java)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:769)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at com.trolmastercard.sexmod.em.func_70071_h_(em.java)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+
+-- Entity being ticked --
+Details:
+	Entity Type: sexmod:ellie (com.trolmastercard.sexmod.el)
+	Entity ID: 211
+	Entity Name: Ellie
+	Entity's Exact location: -1376.92, 167.00, -293.42
+	Entity's Block location: World: (-1377,167,-294), Chunk: (at 15,10,10 in -87,-19; contains blocks -1392,0,-304 to -1377,255,-289), Region: (-3,-1; contains chunks -96,-32 to -65,-1, blocks -1536,0,-512 to -1025,255,-1)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 1 total; [EntityPlayerMP['Sebas'/1185, l='world', x=-1373.16, y=167.00, z=-295.93]]
+	Chunk stats: ServerChunkCache: 714 Drop: 0
+	Level seed: -37166440922938292
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (216,64,252), Chunk: (at 8,4,12 in 13,15; contains blocks 208,0,240 to 223,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 221140 game time, 283104 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 11965 (now: false), thunder time: 11332 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 1.8.0_452, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 6014033216 bytes (5735 MB) / 8458338304 bytes (8066 MB) up to 13362528256 bytes (12743 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx14G
+	IntCache: cache: 0, tcache: 9, allocated: 20, tallocated: 86
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 51 mods loaded, 51 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                       | Version           | Source                                        | Signature                                |
+	|:------ |:------------------------ |:----------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                | 1.12.2            | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                      | 9.42              | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                      | 8.0.99.99         | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                    | 14.23.5.2860      | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | foamfixcore              | 7.7.4             | minecraft.jar                                 | None                                     |
+	| LCHIJA | abyssaldepths            | 1.12.2-0.3.1      | AbyssalDepths-1.12.2-0.3.1.jar                | 25e0dcff5b5a7325d7c28898af41ff8b0ba41b77 |
+	| LCHIJA | aether_legacy            | 1.12.2-v1.4.0     | aether_legacy-1.12.2-v1.4.0.jar               | None                                     |
+	| LCHIJA | aiimprovements           | 0.0.1.3           | AIImprovements-1.12-0.0.1b3.jar               | None                                     |
+	| LCHIJA | codechickenlib           | 3.2.3.358         | CodeChickenLib-1.12.2-3.2.3.358-universal.jar | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | ancientwarfare           | 1.12.2-2.7.0.1038 | ancientwarfare-1.12.2-2.7.0.1038.jar          | None                                     |
+	| LCHIJA | ancientwarfareautomation | 1.12.2-2.7.0.1038 | ancientwarfare-1.12.2-2.7.0.1038.jar          | None                                     |
+	| LCHIJA | ancientwarfarenpc        | 1.12.2-2.7.0.1038 | ancientwarfare-1.12.2-2.7.0.1038.jar          | None                                     |
+	| LCHIJA | ancientwarfarestructure  | 1.12.2-2.7.0.1038 | ancientwarfare-1.12.2-2.7.0.1038.jar          | None                                     |
+	| LCHIJA | ancientwarfarevehicle    | 1.12.2-2.7.0.1038 | ancientwarfare-1.12.2-2.7.0.1038.jar          | None                                     |
+	| LCHIJA | antiqueatlas             | 4.6.3             | antiqueatlas-1.12.2-4.6.3.jar                 | None                                     |
+	| LCHIJA | bettercaves              | 1.12.2            | bettercaves-1.12.2-2.0.2.jar                  | None                                     |
+	| LCHIJA | bettermineshafts         | 1.12.2-2.2.1      | BetterMineshaftsForge-1.12.2-2.2.1.jar        | None                                     |
+	| LCHIJA | bibliotheca              | 1.3.6-1.12.2      | bibliotheca-1.3.6-1.12.2.jar                  | None                                     |
+	| LCHIJA | blocklings               | 6.0.1             | Blocklings 6.0.1 - 1.12.2.jar                 | None                                     |
+	| LCHIJA | carryon                  | 1.12.3            | carryon-1.12.2-1.12.7.23.jar                  | None                                     |
+	| LCHIJA | clearlag                 | 1.1               | Clear-Lag-ReworkV1.1.jar                      | None                                     |
+	| LCHIJA | clumps                   | 3.1.2             | Clumps-3.1.2.jar                              | None                                     |
+	| LCHIJA | dragonmounts             | 2.0.1             | DragonMounts2Continued-2.0.1.jar              | None                                     |
+	| LCHIJA | mocreatures              | 12.0.5            | DrZharks MoCreatures Mod-12.0.5.jar           | None                                     |
+	| LCHIJA | experiencebugfix         | 1.0.0.0           | ExperienceBugFix-1.12.2-1.0.0.0.jar           | None                                     |
+	| LCHIJA | golems                   | 7.1.9             | ExtraGolems-1.12-7.1.9.jar                    | None                                     |
+	| LCHIJA | foamfix                  | @VERSION@         | foamfix-0.10.15-1.12.2.jar                    | None                                     |
+	| LCHIJA | forgelin                 | 1.8.3             | Forgelin-1.8.3.jar                            | None                                     |
+	| LCHIJA | cfm                      | 6.3.0             | furniture-6.3.2-1.12.2.jar                    | None                                     |
+	| LCHIJA | futuremc                 | 0.2.6             | Future-MC-0.2.21.jar                          | None                                     |
+	| LCHIJA | getittogetherdrops       | 1.0.2             | getittogetherdrops-1.12.2-v1.0.2.jar          | None                                     |
+	| LCHIJA | hammertime               | 2.2.0             | Hammer Time-2.2.0-1.12.2.jar                  | None                                     |
+	| LCHIJA | sexmod                   | 1.1.0             | Investigacion guiño guiño.jar                 | None                                     |
+	| LCHIJA | geckolib3                | 3.0.30            | Investigacion guiño guiño.jar                 | None                                     |
+	| LCHIJA | jei                      | 4.16.1.301        | jei_1.12.2-4.16.1.301.jar                     | None                                     |
+	| LCHIJA | libraryex                | 1.2.2             | LibraryEx-1.12.2-1.2.2.jar                    | None                                     |
+	| LCHIJA | lunatriuscore            | 1.2.0.42          | LunatriusCore-1.12.2-1.2.0.42-universal.jar   | None                                     |
+	| LCHIJA | mca                      | 6.1.0             | MCA-1.12.2-6.1.0-universal.jar                | None                                     |
+	| LCHIJA | llibrary                 | 1.7.20            | llibrary-1.7.20-1.12.2.jar                    | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+	| LCHIJA | mowziesmobs              | 1.5.8             | mowziesmobs_1.12.2_1.5.8.jar                  | None                                     |
+	| LCHIJA | mutantbeasts             | 1.12.2-1.0.2      | MutantBeasts-1.12.2-1.0.2.jar                 | None                                     |
+	| LCHIJA | netherex                 | 2.2.5             | NetherEx-Mod-1.12.2.jar                       | None                                     |
+	| LCHIJA | performant               | 1.12.2-1.5        | performant-1.11.jar                           | None                                     |
+	| LCHIJA | radixcore                | 1.12.x-2.2.1      | RadixCore-1.12.x-2.2.1-universal.jar          | None                                     |
+	| LCHIJA | spark                    | 1.6.3             | spark-forge.jar                               | None                                     |
+	| LCHIJA | spartanshields           | 1.5.5             | SpartanShields-1.12.2-1.5.5.jar               | None                                     |
+	| LCHIJA | stackie                  | 1.6.0.48          | Stackie-1.12.2-1.6.0.48-universal.jar         | None                                     |
+	| LCHIJA | surge                    | 2.0.79            | Surge-1.12.2-2.0.79.jar                       | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | tickdynamic              | 1.0.3             | TickDynamic-1.12.2-1.0.3.jar                  | None                                     |
+	| LCHIJA | travelersbackpack        | 1.0.35            | TravelersBackpack-1.12.2-1.0.35.jar           | None                                     |
+	| LCHIJA | twilightforest           | 3.8.689           | twilightforest-1.12.2-3.8.689-universal.jar   | None                                     |
+
+	Loaded coremods (and transformers): 
+ForgelinPlugin (Forgelin-1.8.3.jar)
+  
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+LoadingPlugin (TickDynamic-1.12.2-1.0.3.jar)
+  com.wildex999.patcher.TransformerPatcher
+  com.wildex999.patcher.EntityInjector
+LoadingPlugin (ChunkAnimator-1.12.2-1.2.1.jar)
+  lumien.chunkanimator.asm.ClassTransformer
+ParticleCullingLoadingPlugin (particleculling-1.12.2-v1.3.1.jar)
+  
+GITDLoadingPlugin (getittogetherdrops-1.12.2-v1.0.2.jar)
+  
+SurgeLoadingPlugin (Surge-1.12.2-2.0.79.jar)
+  
+ClsPlugin (CustomLoadingScreen-1.12.2-1.5.7.jar)
+  alexiil.mc.mod.load.coremod.ClsTransformer
+FutureMC (Future-MC-0.2.21.jar)
+  thedarkcolour.futuremc.asm.CoreTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 10; [EntityPlayerMP['Sebas'/1185, l='world', x=-1373.16, y=167.00, z=-295.93]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

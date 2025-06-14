@@ -1,0 +1,471 @@
+{
+	"biome": "netherex:torrid_wasteland",
+	"generationWeight": 6,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {
+		"surface": {
+			"block": "netherex:fiery_netherrack"
+		},
+		"liquid": {
+			"block": "minecraft:lava"
+		},
+		"subsurface": {
+			"block": "netherex:fiery_netherrack"
+		}
+	},
+	"entities": [
+		{
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:magma_cube"
+		}, 
+		{
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "netherex:ember"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "netherex:salamander"
+		}, 
+		{
+			"spawnWeight": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mocreatures:biggolem"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:caveogre"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:fireogre"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:flamewraith"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:greenogre"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:horsemob"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:manticore"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:minigolem"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:rat"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:scorpion"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:silverskeleton"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:werewolf"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:wraith"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:wwolf"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mowziesmobs:barakoana"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mowziesmobs:grottol"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:bird"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:blackbear"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:boar"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:bunny"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:deer"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:duck"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mocreatures:elephant"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:ent"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mocreatures:fox"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:goat"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:grizzlybear"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:kitty"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:lion"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:mole"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:mouse"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mocreatures:ostrich"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:pandabear"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:raccoon"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:snake"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:tiger"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:turkey"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:wildhorse"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:ant"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:bee"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:butterfly"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:cricket"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:dragonfly"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:firefly"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:fly"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:maggot"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:roach"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:snail"
+		}
+	],
+	"traits": [
+		{
+			"generationAttempts": 8,
+			"generationStage": "terrain_alteration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:pool",
+			"maximumGenerationHeight": 108,
+			"blockToSurround": {
+				"block": "netherex:fiery_netherrack"
+			}
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToTarget": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:fluid",
+			"maximumGenerationHeight": 124,
+			"generateFalling": false
+		}, 
+		{
+			"generationAttempts": 20,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "minecraft:fire"
+			},
+			"blockToTarget": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:scatter",
+			"maximumGenerationHeight": 124,
+			"placement": "on_ground"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 124,
+			"blockToAttachTo": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 1,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 128,
+			"blockToAttachTo": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 32,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"blockToTarget": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:fluid",
+			"maximumGenerationHeight": 118,
+			"generateFalling": true
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 14,
+			"blockToSpawn": {
+				"block": "netherex:quartz_ore"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 24,
+			"blockToSpawn": {
+				"block": "netherex:basalt"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}, 
+		{
+			"generationAttempts": 8,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 32,
+			"blockToSpawn": {
+				"block": "minecraft:magma"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}
+	],
+	"subBiomes": []
+}
