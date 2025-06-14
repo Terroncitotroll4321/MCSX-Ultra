@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-14 06:38:07 +0000"
@@ -53,9 +59,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-06-14 06:34:43 +0000"
+    },
+    "done": true
+  },
+  "dragonmounts:recipes/transportation/carriage_acacia": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
     },
     "done": true
   },
@@ -245,6 +263,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/transportation/carriage_oak": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2025-06-14 06:18:55 +0000"
@@ -260,6 +284,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2025-06-14 08:42:54 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
     },
     "done": true
   },
@@ -378,6 +408,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/transportation/carriage_dark_oak": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "mutantbeasts:root": {
     "criteria": {
       "killed_something": "2025-06-14 06:53:56 +0000"
@@ -420,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 07:00:33 +0000"
@@ -447,6 +489,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-06-14 07:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
     },
     "done": true
   },
@@ -641,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-14 20:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-14 06:38:20 +0000"
@@ -671,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-06-14 06:17:53 +0000"
@@ -680,6 +740,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-06-14 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
     },
     "done": true
   },
@@ -781,6 +847,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/transportation/carriage_jungle": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/misc/dragon_gender": {
     "criteria": {
       "has_diamond": "2025-06-14 09:35:49 +0000"
@@ -823,6 +895,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/transportation/carriage_birch": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/iron_ring": {
     "criteria": {
       "has_iron": "2025-06-14 07:00:33 +0000"
@@ -856,6 +934,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 07:01:23 +0000"
+    },
+    "done": true
+  },
+  "dragonmounts:recipes/transportation/carriage_spruce": {
+    "criteria": {
+      "has_leather": "2025-06-14 20:38:12 +0000"
     },
     "done": true
   }
