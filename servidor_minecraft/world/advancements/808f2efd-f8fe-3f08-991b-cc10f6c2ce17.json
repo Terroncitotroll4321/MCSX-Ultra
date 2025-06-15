@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/combat/ender_dragonscale_boots": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-06-14 08:10:52 +0000"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/combat/ender_dragon_sword": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "cfm:dingdong": {
     "criteria": {
       "clicked_doorbell": "2025-06-14 23:56:20 +0000"
@@ -602,6 +614,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-14 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "dragonmounts:recipes/combat/ender_dragonscale_leggings": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
     },
     "done": true
   },
@@ -1362,6 +1380,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/combat/ender_dragonscale_tunic": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 06:59:28 +0000"
@@ -1542,6 +1566,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/combat/dragon_bow_end": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/transportation/carriage_dark_oak": {
     "criteria": {
       "has_leather": "2025-06-14 06:51:10 +0000"
@@ -1644,6 +1674,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/combat/dragon_shield_end": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/combat/diamond_shears": {
     "criteria": {
       "has_diamond": "2025-06-14 09:31:36 +0000"
@@ -1686,6 +1722,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/tools/ender_dragon_hoe": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-06-14 07:42:50 +0000",
@@ -1720,6 +1762,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-14 07:15:32 +0000"
+    },
+    "done": true
+  },
+  "dragonmounts:recipes/tools/ender_dragon_pickaxe": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
     },
     "done": true
   },
@@ -1783,6 +1831,12 @@
     },
     "done": true
   },
+  "dragonmounts:recipes/combat/ender_dragonscale_cap": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-06-14 06:17:51 +0000"
@@ -1792,6 +1846,12 @@
   "dragonmounts:recipes/combat/dragonarmor_diamond": {
     "criteria": {
       "has_block": "2025-06-14 09:33:39 +0000"
+    },
+    "done": true
+  },
+  "dragonmounts:recipes/tools/ender_dragon_shovel": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
     },
     "done": true
   },
@@ -1816,6 +1876,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2025-06-14 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "dragonmounts:recipes/combat/ender_dragon_axe": {
+    "criteria": {
+      "has_scales": "2025-06-15 03:32:05 +0000"
     },
     "done": true
   },
