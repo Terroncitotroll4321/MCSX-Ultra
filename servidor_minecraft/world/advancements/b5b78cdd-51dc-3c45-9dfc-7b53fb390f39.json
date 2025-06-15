@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2025-06-15 04:40:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-14 07:17:28 +0000"
@@ -420,6 +426,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-14 07:17:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:dingdong": {
+    "criteria": {
+      "clicked_doorbell": "2025-06-15 04:45:18 +0000"
     },
     "done": true
   },
@@ -842,6 +854,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-14 06:41:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2025-06-15 04:40:06 +0000"
     },
     "done": true
   },
@@ -1316,6 +1334,12 @@
   "dragonmounts:recipes/misc/dragon_whistle": {
     "criteria": {
       "has_pearl": "2025-06-15 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-06-15 04:43:37 +0000"
     },
     "done": true
   },
