@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-06-15 04:23:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-06-14 07:09:54 +0000"
@@ -926,6 +932,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-06-15 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-15 04:23:42 +0000"
     },
     "done": true
   },
