@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-06-15 09:19:19 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/transportation/carriage_oak": {
     "criteria": {
       "has_leather": "2025-06-14 06:51:10 +0000"
@@ -446,6 +452,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-14 06:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-15 09:34:26 +0000"
     },
     "done": true
   },
@@ -977,6 +989,7 @@
       "zombie_villager": "2025-06-14 08:48:06 +0000",
       "magma_cube": "2025-06-15 04:25:14 +0000",
       "skeleton": "2025-06-14 08:29:04 +0000",
+      "husk": "2025-06-15 05:39:35 +0000",
       "blaze": "2025-06-15 04:03:36 +0000",
       "cave_spider": "2025-06-14 08:09:41 +0000",
       "zombie": "2025-06-14 07:58:37 +0000",
@@ -1077,6 +1090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 09:42:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-06-14 09:35:52 +0000"
@@ -1167,6 +1186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 09:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-14 20:36:39 +0000"
@@ -1251,9 +1276,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-06-15 09:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 06:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-15 05:30:28 +0000"
     },
     "done": true
   },
@@ -1314,6 +1351,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-06-15 04:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-15 09:52:37 +0000"
     },
     "done": true
   },
@@ -1527,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-15 09:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-06-14 19:45:26 +0000"
@@ -1605,9 +1654,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 09:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-14 06:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 09:52:42 +0000"
     },
     "done": true
   },
@@ -1683,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-15 09:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2025-06-14 07:58:37 +0000"
@@ -1710,6 +1777,12 @@
   "aether_legacy:recipes/tools/gold_ring": {
     "criteria": {
       "has_gold": "2025-06-14 06:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-15 09:34:24 +0000"
     },
     "done": true
   },
@@ -1761,6 +1834,9 @@
       "forest_hills": "2025-06-14 07:43:15 +0000",
       "plains": "2025-06-14 06:16:29 +0000",
       "savanna": "2025-06-14 06:49:50 +0000",
+      "jungle_hills": "2025-06-15 08:55:57 +0000",
+      "jungle_edge": "2025-06-15 08:50:29 +0000",
+      "savanna_rock": "2025-06-15 05:51:07 +0000",
       "taiga": "2025-06-14 07:36:01 +0000",
       "taiga_hills": "2025-06-14 07:36:26 +0000",
       "birch_forest_hills": "2025-06-14 07:30:27 +0000",
@@ -1783,6 +1859,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-14 07:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 09:42:28 +0000"
     },
     "done": true
   },
@@ -1879,6 +1961,12 @@
   "dragonmounts:recipes/tools/ender_dragon_shovel": {
     "criteria": {
       "has_scales": "2025-06-15 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 09:42:28 +0000"
     },
     "done": true
   },
@@ -2131,6 +2219,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-14 20:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2025-06-15 09:52:42 +0000"
     },
     "done": true
   },
